@@ -5,6 +5,13 @@ body {
     margin: 0;
     padding: 0;
 }
+#cabecera {
+    background-color: rgb(109, 5, 83);
+    color:rgb(248, 199, 239);
+    padding: 1em;
+    text-align: center;
+    font-size: 30px;
+}
 #container {
     width: 70%;
     padding: 1em;
@@ -12,7 +19,7 @@ body {
     justify-content: center;
     align-items: center;
     border: 1px solid rgb(82, 3, 63);
-    color:rgb(248, 199, 239)
+    color:rgb(78, 3, 65)
     margin: 0 auto;
 }
 #container h1 {
